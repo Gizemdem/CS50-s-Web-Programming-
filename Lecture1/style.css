@@ -1,0 +1,50 @@
+div{
+    border: 3px solid black;
+    background-color: pink;
+    width: 200px;
+    height: 880px;
+    padding: 20px;
+    margin: 20px;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: bold;
+}
+#cornerdivision{
+    border: 3px solid black;
+    background-color: pink;
+    width: 200px;
+    height: 880px;
+    padding: 20px;
+    margin-right: 240;
+    margin-top: 20px;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+h1{
+    color: orange;
+    text-align: center;
+    font-family: Helvetica;
+}
+h4{
+    color: black;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+#foo{
+    color: blue;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+ul > li{
+    color: brown;
+}
+a{
+    color: cadetblue;
+}
+a[href="form.html"]{
+    color: blueviolet;
+}
